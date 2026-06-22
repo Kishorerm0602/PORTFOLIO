@@ -12,8 +12,8 @@ A modern, responsive, and interactive portfolio website designed to showcase my 
 
 ✨ Features
 👨‍💻 Professional Introduction
-🎓 Education and Academic Background
-🛠️ Technical Skills Showcase
+🎓 Education and Academic Background\n
+🛠️ Technical Skills Showcase\n
 📂 Projects and Research Work
 📜 Certifications and Achievements
 💼 Internship and Experience Details
